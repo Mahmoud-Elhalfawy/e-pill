@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "880920705125",
+    "project_id": "e-pill-9d1d5",
+    "storage_bucket": "e-pill-9d1d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880920705125:android:638a96e68e938c2c4c2e8c",
+        "android_client_info": {
+          "package_name": "com.halfwaydevs.e_pill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880920705125-4pe7ikcmerg3gk63vnjb4tt4p5h76bsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halfwaydevs.e_pill",
+            "certificate_hash": "d8fb4a5a60a3c665cab94e6082cd055562106e33"
+          }
+        },
+        {
+          "client_id": "880920705125-uu3i39hobps7ovmvjpbnp68ks66dd4r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrAaFFxz6idUgXSKg2c4DWL34JOizQfQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880920705125-uu3i39hobps7ovmvjpbnp68ks66dd4r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
